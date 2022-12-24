@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Shared prefrences</string>
+    <string name="u_s">using shared preferences</string>
+    <string name="name">name</string>
+    <string name="family">family</string>
+    <string name="gender">gender</string>
 </resources>
